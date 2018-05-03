@@ -1,7 +1,9 @@
 # Helllo-World
-New repository for learning
+New 2nd repository for learning
 
 
-Working on my first branch called faeture to differ between the Master and other branches..
+Working on my second branch called faeture to differ between the Master and other branches..
 
 It's a new work and i am working for the first time
+
+It's new for me.
